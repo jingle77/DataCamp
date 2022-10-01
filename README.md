@@ -1,2 +1,2 @@
 # DataCamp
-##### Projects that I have completed through [DataCamp](https://www.datacamp.com/)
+##### Projects that I have completed through the online learning platform [DataCamp](https://www.datacamp.com/)
