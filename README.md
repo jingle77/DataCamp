@@ -34,3 +34,7 @@ Projects that I have completed through the online learning platform [DataCamp](h
 ### [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/jingle77/DataCamp/tree/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)
 
 - In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives.
+
+### [Exploring 67 years of lego](https://github.com/jingle77/DataCamp/tree/master/Exploring%2067%20years%20of%20LEGO)
+
+- The Rebrickable database includes data on every LEGO set that has ever been sold; the names of the sets, what bricks they contain, what color the bricks are, etc. It might be small bricks, but this is big data! In this project, you will get to explore the Rebrickable database and answer a series of questions related to the history of Lego!
