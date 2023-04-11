@@ -38,3 +38,9 @@ Projects that I have completed through the online learning platform [DataCamp](h
 ### [Exploring 67 years of lego](https://github.com/jingle77/DataCamp/tree/master/Exploring%2067%20years%20of%20LEGO)
 
 - The Rebrickable database includes data on every LEGO set that has ever been sold; the names of the sets, what bricks they contain, what color the bricks are, etc. It might be small bricks, but this is big data! In this project, you will get to explore the Rebrickable database and answer a series of questions related to the history of Lego!
+
+### [Predicting credit card approvals](https://github.com/jingle77/DataCamp/tree/master/Predicting%20Credit%20Card%20Approvals)
+
+- Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this project, you will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.
+
+- The dataset used in this project is the Credit Card Approval dataset from the UCI Machine Learning Repository.
