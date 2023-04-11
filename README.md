@@ -11,4 +11,4 @@ Projects that I have completed through the online learning platform [DataCamp](h
   - Which country owns the maximum amount of debt and what does that amount look like?
   - What is the average amount of debt owed by countries across different debt indicators?
 
-  - The data used in this project is provided by The World Bank. It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015.
+- The data used in this project is provided by The World Bank. It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015.
