@@ -1,7 +1,15 @@
 # DataCamp
-##### Projects that I have completed through the online learning platform [DataCamp](https://www.datacamp.com/)
+Projects that I have completed through the online learning platform [DataCamp](https://www.datacamp.com/). Note that all project descriptions come straight from the datacamp platform
 
 ## Contents
 
-- ### AWS Sagemaker
-  - [Employee Salary Prediction: AWS Sagemaker Linear Learner](https://github.com/jingle77/Data-Science-Portfolio/blob/main/Employee%20Salary%20Prediction/employee_salary_prediction_notebook.ipynb): A simple linear regression model built through amazon sagemaker jupyter lab that predicts the salary of an employee based on their years of service. This project shows the basics of building and deploying a linear model in AWS Sagemaker.
+- ### Analyze International Debt Statistics
+  - [Analyze International Debt Statistics](https://github.com/jingle77/DataCamp/tree/master/Analyze%20International%20Debt%20Statistics): It's not that we humans only take debts to manage our necessities. A country may also take debt to manage its economy. For example, infrastructure spending is one costly ingredient required for a country's citizens to lead comfortable lives. The World Bank is the organization that provides debt to countries.
+
+In this project, you are going to analyze international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. You are going to find the answers to questions like:
+
+-What is the total amount of debt that is owed by the countries listed in the dataset?
+-Which country owns the maximum amount of debt and what does that amount look like?
+-What is the average amount of debt owed by countries across different debt indicators?
+
+The data used in this project is provided by The World Bank. It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015.
