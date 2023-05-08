@@ -44,3 +44,9 @@ Projects that I have completed through the online learning platform [DataCamp](h
 - Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this project, you will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.
 
 - The dataset used in this project is the Credit Card Approval dataset from the UCI Machine Learning Repository.
+
+### [Find Movie Similarity from Plot Summaries](https://github.com/jingle77/DataCamp/blob/master/Find%20Movie%20Similarity%20from%20Plot%20Summaries/notebook.ipynb))
+
+- Natural Language Processing (NLP) is an exciting field of study for data scientists where they develop algorithms that can make sense out of conversational language used by humans. In this Project, you will use NLP to find the degree of similarity between movies based on their plots available on IMDb and Wikipedia.
+
+- The dataset contains the titles of the top 100 movies on IMDb as well as each movie's plot summary from both IMDb and Wikipedia.
